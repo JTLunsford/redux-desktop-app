@@ -1,0 +1,14 @@
+{
+	"level": "log",
+	"duration": true,
+	"timestamp": true,
+	"colors": {
+		"title": false,
+		"prevState": false,
+		"action": false,
+		"nextState": false,
+		"error": false
+	},
+	"logErrors": true,
+	"diff": false
+}
